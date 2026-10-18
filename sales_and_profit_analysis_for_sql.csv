@@ -1,0 +1,41 @@
+﻿Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,State,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+CA-2016-152156,11-08-2016,11-11-2016,Second Class,CG-12520,Claire Gute,Kentucky,FUR-BO-10001798,Furniture,Bookcases,Bush Somerset Collection Bookcase,261.96,2,0,41.9136
+CA-2016-152156,11-08-2016,11-11-2016,Second Class,CG-12520,Claire Gute,Kentucky,FUR-CH-10000454,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",731.94,3,0,219.582
+CA-2016-138688,06-12-2016,16-06-2016,Second Class,DV-13045,Darrin Van Huff,California,OFF-LA-10000240,Office Supplies,Labels,Self-Adhesive Address Labels for Typewriters by Universal,14.62,2,0,6.8714
+US-2015-108966,10-11-2015,18-10-2015,Standard Class,SO-20335,Sean O'Donnell,Florida,FUR-TA-10000577,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,957.5775,5,0.45,-383.031
+US-2015-108966,10-11-2015,18-10-2015,Standard Class,SO-20335,Sean O'Donnell,Florida,OFF-ST-10000760,Office Supplies,Storage,Eldon Fold 'N Roll Cart System,22.368,2,0.2,2.5164
+CA-2014-115812,06-09-2014,14-06-2014,Standard Class,BH-11710,Brosina Hoffman,California,FUR-FU-10001487,Furniture,Furnishings,"Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood",48.86,7,0,14.1694
+CA-2014-115812,06-09-2014,14-06-2014,Standard Class,BH-11710,Brosina Hoffman,California,OFF-AR-10002833,Office Supplies,Art,Newell 322,7.28,4,0,1.9656
+CA-2014-115812,06-09-2014,14-06-2014,Standard Class,BH-11710,Brosina Hoffman,California,TEC-PH-10002275,Technology,Phones,Mitel 5320 IP Phone VoIP phone,907.152,6,0.2,90.7152
+CA-2014-115812,06-09-2014,14-06-2014,Standard Class,BH-11710,Brosina Hoffman,California,OFF-BI-10003910,Office Supplies,Binders,DXL Angle-View Binders with Locking Rings by Samsill,18.504,3,0.2,5.7825
+CA-2014-115812,06-09-2014,14-06-2014,Standard Class,BH-11710,Brosina Hoffman,California,OFF-AP-10002892,Office Supplies,Appliances,Belkin F5C206VTEL 6 Outlet Surge,114.9,5,0,34.47
+CA-2014-115812,06-09-2014,14-06-2014,Standard Class,BH-11710,Brosina Hoffman,California,FUR-TA-10001539,Furniture,Tables,Chromcraft Rectangular Conference Tables,1706.184,9,0.2,85.3092
+CA-2014-115812,06-09-2014,14-06-2014,Standard Class,BH-11710,Brosina Hoffman,California,TEC-PH-10002033,Technology,Phones,Konftel 250 Conference phone - Charcoal black,911.424,4,0.2,68.3568
+CA-2017-114412,15-04-2017,20-04-2017,Standard Class,AA-10480,Andrew Allen,North Carolina,OFF-PA-10002365,Office Supplies,Paper,Xerox 1967,15.552,3,0.2,5.4432
+CA-2016-161389,12-05-2016,12-10-2016,Standard Class,IM-15070,Irene Maddox,Washington,OFF-BI-10003656,Office Supplies,Binders,Fellowes PB200 Plastic Comb Binding Machine,407.976,3,0.2,132.5922
+US-2015-118983,22-11-2015,26-11-2015,Standard Class,HP-14815,Harold Pawlan,Texas,OFF-AP-10002311,Office Supplies,Appliances,"Holmes Replacement Filter for HEPA Air Cleaner, Very Large Room, HEPA Filter",68.81,5,0.8,-123.858
+US-2015-118983,22-11-2015,26-11-2015,Standard Class,HP-14815,Harold Pawlan,Texas,OFF-BI-10000756,Office Supplies,Binders,Storex DuraTech Recycled Plastic Frosted Binders,2.544,3,0.8,-3.816
+CA-2014-105893,11-11-2014,18-11-2014,Standard Class,PK-19075,Pete Kriz,Wisconsin,OFF-ST-10004186,Office Supplies,Storage,"Stur-D-Stor Shelving, Vertical 5-Shelf: 72""H x 36""W x 18 1/2""D",665.88,6,0,13.3176
+CA-2014-167164,13-05-2014,15-05-2014,Second Class,AG-10270,Alejandro Grove,Utah,OFF-ST-10000107,Office Supplies,Storage,Fellowes Super Stor/Drawer,55.5,2,0,9.99
+CA-2014-143336,27-08-2014,09-01-2014,Second Class,ZD-21925,Zuschuss Donatelli,California,OFF-AR-10003056,Office Supplies,Art,Newell 341,8.56,2,0,2.4824
+CA-2014-143336,27-08-2014,09-01-2014,Second Class,ZD-21925,Zuschuss Donatelli,California,TEC-PH-10001949,Technology,Phones,Cisco SPA 501G IP Phone,213.48,3,0.2,16.011
+CA-2014-143336,27-08-2014,09-01-2014,Second Class,ZD-21925,Zuschuss Donatelli,California,OFF-BI-10002215,Office Supplies,Binders,"Wilson Jones Hanging View Binder, White, 1""",22.72,4,0.2,7.384
+CA-2016-137330,12-09-2016,13-12-2016,Standard Class,KB-16585,Ken Black,Nebraska,OFF-AR-10000246,Office Supplies,Art,Newell 318,19.46,7,0,5.0596
+CA-2016-137330,12-09-2016,13-12-2016,Standard Class,KB-16585,Ken Black,Nebraska,OFF-AP-10001492,Office Supplies,Appliances,"Acco Six-Outlet Power Strip, 4' Cord Length",60.34,7,0,15.6884
+US-2017-156909,16-07-2017,18-07-2017,Second Class,SF-20065,Sandra Flanagan,Pennsylvania,FUR-CH-10002774,Furniture,Chairs,"Global Deluxe Stacking Chair, Gray",71.372,2,0.3,-1.0196
+CA-2015-106320,25-09-2015,30-09-2015,Standard Class,EB-13870,Emily Burns,Utah,FUR-TA-10000577,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,1044.63,3,0,240.2649
+CA-2016-121755,16-01-2016,20-01-2016,Second Class,EH-13945,Eric Hoffmann,California,OFF-BI-10001634,Office Supplies,Binders,Wilson Jones Active Use Binders,11.648,2,0.2,4.2224
+CA-2016-121755,16-01-2016,20-01-2016,Second Class,EH-13945,Eric Hoffmann,California,TEC-AC-10003027,Technology,Accessories,Imation 8GB Mini TravelDrive USB 2.0 Flash Drive,90.57,3,0,11.7741
+US-2015-150630,17-09-2015,21-09-2015,Standard Class,TB-21520,Tracy Blumstein,Pennsylvania,FUR-BO-10004834,Furniture,Bookcases,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",3083.43,7,0.5,-1665.0522
+US-2015-150630,17-09-2015,21-09-2015,Standard Class,TB-21520,Tracy Blumstein,Pennsylvania,OFF-BI-10000474,Office Supplies,Binders,Avery Recycled Flexi-View Covers for Binding Systems,9.618,2,0.7,-7.0532
+US-2015-150630,17-09-2015,21-09-2015,Standard Class,TB-21520,Tracy Blumstein,Pennsylvania,FUR-FU-10004848,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",124.2,3,0.2,15.525
+US-2015-150630,17-09-2015,21-09-2015,Standard Class,TB-21520,Tracy Blumstein,Pennsylvania,OFF-EN-10001509,Office Supplies,Envelopes,Poly String Tie Envelopes,3.264,2,0.2,1.1016
+US-2015-150630,17-09-2015,21-09-2015,Standard Class,TB-21520,Tracy Blumstein,Pennsylvania,OFF-AR-10004042,Office Supplies,Art,"BOSTON Model 1800 Electric Pencil Sharpeners, Putty/Woodgrain",86.304,6,0.2,9.7092
+US-2015-150630,17-09-2015,21-09-2015,Standard Class,TB-21520,Tracy Blumstein,Pennsylvania,OFF-BI-10001525,Office Supplies,Binders,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Executive Red",6.858,6,0.7,-5.715
+US-2015-150630,17-09-2015,21-09-2015,Standard Class,TB-21520,Tracy Blumstein,Pennsylvania,OFF-AR-10001683,Office Supplies,Art,Lumber Crayons,15.76,2,0.2,3.546
+CA-2017-107727,19-10-2017,23-10-2017,Second Class,MA-17560,Matt Abelman,Texas,OFF-PA-10000249,Office Supplies,Paper,Easy-staple paper,29.472,3,0.2,9.9468
+CA-2016-117590,12-08-2016,12-10-2016,First Class,GH-14485,Gene Hale,Texas,TEC-PH-10004977,Technology,Phones,GE 30524EE4,1097.544,7,0.2,123.4737
+CA-2016-117590,12-08-2016,12-10-2016,First Class,GH-14485,Gene Hale,Texas,FUR-FU-10003664,Furniture,Furnishings,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",190.92,5,0.6,-147.963
+CA-2015-117415,27-12-2015,31-12-2015,Standard Class,SN-20710,Steve Nguyen,Texas,OFF-EN-10002986,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",113.328,9,0.2,35.415
+CA-2015-117415,27-12-2015,31-12-2015,Standard Class,SN-20710,Steve Nguyen,Texas,FUR-BO-10002545,Furniture,Bookcases,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",532.3992,3,0.32,-46.9764
+CA-2015-117415,27-12-2015,31-12-2015,Standard Class,SN-20710,Steve Nguyen,Texas,FUR-CH-10004218,Furniture,Chairs,"Global Fabric Manager's Chair, Dark Gray",212.058,3,0.3,-15.147
