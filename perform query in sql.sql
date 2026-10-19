@@ -18,8 +18,20 @@ rename column `ï»¿Order ID` to order_id;
 update sales_and_profit_analysis
 set 	
 	`Order Date` = str_to_date(`Order Date`,'%d-%m-%Y');
-    
 
 update sales_and_profit_analysis
 set 	
 	`Ship Date` = str_to_date(`Ship Date`,'%d-%m-%Y');
+    
+select `Ship Mode` , sum(Profit)as Total_profit
+from sales_and_profit_analysis
+group by `Ship Mode`;
+
+select Category , round(sum(Discount),2)as total_discount , sum(Profit)as total_profit , count(*)as total_count
+from sales_and_profit_analysis
+group by Category;
+
+select `Customer Name` , max(Sales)as max_sales , min(sales)as min_sales , count(*)as total_Count
+from sales_and_profit_analysis
+group by `Customer Name`
+order by total_Count desc;
