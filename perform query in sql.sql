@@ -35,3 +35,15 @@ select `Customer Name` , max(Sales)as max_sales , min(sales)as min_sales , count
 from sales_and_profit_analysis
 group by `Customer Name`
 order by total_Count desc;
+
+select State , Profit
+from sales_and_profit_analysis
+where Profit = (select max(Profit)as max_profit from sales_and_profit_analysis);
+
+select State , max(Profit)as max_profit
+from sales_and_profit_analysis
+group by state;
+
+select State , sum(Profit)as max_profit
+from sales_and_profit_analysis
+group by State;
