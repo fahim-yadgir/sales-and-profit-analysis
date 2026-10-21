@@ -47,3 +47,11 @@ group by state;
 select State , sum(Profit)as max_profit
 from sales_and_profit_analysis
 group by State;
+
+select `Customer Name` , profit 
+from sales_and_profit_analysis
+where profit < 0;
+
+select `Customer name` , Discount ,State, round(sum(Profit) over(order by `Order Date`),2)as total_loos
+from sales_and_profit_analysis
+where Profit < 0;
